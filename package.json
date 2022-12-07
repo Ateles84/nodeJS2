@@ -16,7 +16,7 @@
     "cordova-browser": "^6.0.0",
     "cordova-jquery": "^0.1.6",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
